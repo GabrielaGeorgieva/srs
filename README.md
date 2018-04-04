@@ -1,0 +1,2 @@
+# srs
+Simple Random Sampling
